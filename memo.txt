@@ -1,1 +1,3 @@
 347. Top K Frequent Elements
+342. Power of Four	//num&(num-1) ->check only one bit in binary form
+301. Remove Invalid Parentheses	//DFS&&BFS
